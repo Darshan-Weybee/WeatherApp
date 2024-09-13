@@ -1,0 +1,40 @@
+.MuiPaper-root{
+    border-radius: 0.8rem !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px !important;
+}
+
+.css-1dpseql-MuiCardHeader-content {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column; 
+}
+
+.MuiCardHeader-title{
+    font-weight: 400;
+    font-size: 1.3rem !important;
+    line-height: 1.334;
+    letter-spacing: 0em;
+    font-weight: bold !important;
+}
+
+.MuiCardHeader-subheader{
+    font-weight: 600 !important;
+}
+
+.temprature-container{
+    display: flex;
+    align-items: center;
+}
+
+.temp{
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.condition{
+    font-size: 1rem;
+    color: rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: flex-start;
+    font-weight: 500;
+}
